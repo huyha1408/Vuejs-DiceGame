@@ -1,1 +1,1 @@
-# Vuejs-DiceGame
+Game xúc sắc by VueJS
